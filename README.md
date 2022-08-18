@@ -1,4 +1,4 @@
-# TicTacToe1
+# TicTacToe
 
 
 <p align="center">
